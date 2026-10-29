@@ -1,14 +1,15 @@
 # Olá! Eu sou Erick Sena de Araujo 👋
 
-🎓 Estudante de Engenharia de Software — 5º termo  
-💻 Desenvolvedor em formação, com interesse em desenvolvimento de sistemas, dados e automação  
+🎓 Engenheiro de Produção  
+💻 Estudante de Engenharia de Software — 5º termo  
+📈 Experiência em melhoria contínua | Six Sigma Black Belt  
 📍 Narandiba, São Paulo
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e venho desenvolvendo projetos acadêmicos para aplicar os conhecimentos adquiridos durante o curso. Tenho estudado desenvolvimento web, criação de APIs, bancos de dados, autenticação e qualidade de software.
+Sou formado em Engenharia de Produção e estudante de Engenharia de Software. Tenho experiência em melhoria contínua e formação Black Belt em Six Sigma, aplicando uma visão orientada a processos, análise de dados e resolução estruturada de problemas.
 
-Também atuo com BI e automação, experiência que me ajuda a conectar tecnologia a problemas reais e à melhoria de processos.
+Na área de tecnologia, venho desenvolvendo projetos acadêmicos e estudando desenvolvimento web, criação de APIs, bancos de dados, autenticação e qualidade de software. Também atuo com BI e automação, conectando tecnologia à melhoria de processos e à tomada de decisão.
 
 ## Conhecimentos e tecnologias
 
@@ -16,6 +17,7 @@ Também atuo com BI e automação, experiência que me ajuda a conectar tecnolog
 - **APIs:** APIs REST, operações CRUD e autenticação com JWT
 - **Banco de dados:** MySQL
 - **Qualidade de software:** SOLID, GRASP e padrões de projeto
+- **Melhoria contínua:** Six Sigma, Black Belt e análise de processos
 - **Dados e automação:** Power BI, DAX, Power Query, Excel e Power Automate
 - **Ferramentas:** Git, GitHub, Insomnia e VS Code
 
@@ -35,9 +37,9 @@ Desenvolvimento de consultas, indicadores e automações para apoiar a análise 
 
 ## Minha evolução
 
-Minha trajetória no curso tem ampliado minha visão sobre o desenvolvimento de software: além de implementar funcionalidades, busco compreender como estruturar APIs, organizar responsabilidades, persistir dados, proteger acessos e construir soluções mais claras e fáceis de manter.
+Minha trajetória une Engenharia de Produção, melhoria contínua e tecnologia. A formação em Engenharia de Software amplia minha capacidade de estruturar soluções digitais; a experiência com processos e Six Sigma fortalece minha abordagem de análise, eficiência e melhoria contínua.
 
-Este perfil reúne projetos e estudos que representam minha evolução como estudante e profissional em formação na área de tecnologia.
+Este perfil reúne projetos e estudos que representam minha evolução como profissional e estudante da área de tecnologia.
 
 ## Contato
 
